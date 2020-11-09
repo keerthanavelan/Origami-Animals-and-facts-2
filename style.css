@@ -1,0 +1,47 @@
+h1{
+    color:white;
+    border-style: inset;
+    
+    /* background-color: rgb(247, 193, 193); */
+    text-shadow: mediumslateblue 4px 3px 0px;
+}
+img{
+    color: white;
+    border-style: inset;
+    -webkit-box-shadow: 10px 11px 11px 7px rgba(255,255,255,0.68); 
+    box-shadow: 10px 11px 11px 7px rgba(255,255,255,0.68);
+    
+}
+a{
+    color: white;
+}
+*{
+    background-image: url("images/bg.gif");
+}
+h2{
+    color: white;
+    border-style: inset;
+}
+h3{
+    color: white;
+    border-style: inset;
+}
+p{
+    color: darkturquoise;
+}
+.header{
+    background-image: url("images/tenor.gif");
+    /* background-image: linear-gradient(darkblue, black); */
+    color: white;
+    border-style: inset;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("images/bg.gif");
+}
+.item{
+    color: white;
+    border: solid;
+    background-image: url("images/bg.gif");
+}
